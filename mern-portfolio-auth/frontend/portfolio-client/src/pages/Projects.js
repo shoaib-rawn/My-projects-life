@@ -5,19 +5,19 @@ const Projects = () => {
     {
       title: "My life learning code",
       description: "Full-stack ,Frontend ,backend Techs",
-      link: "https://github.com/yourusername/ecommerce-platform",
+      link: "https://github.com/shoaib-rawn/My-projects-life",
       tech: "Mern,csstailwind,bootstrap ,javascript,php,html,css5"
     },
     {
       title: "javascript projects",
       description: "learning base projects ",
-      link: "https://github.com/yourusername/task-manager",
+      link: "https://github.com/shoaib-rawn/My-projects-life/tree/main/project%203%20(html_css_js)r",
       tech: "Javascript,css tailwind"
     },
     {
       title: "Inventory app ",
       description: "store products in database",
-      link: "https://github.com/yourusername/weather-app",
+      link: "https://github.com/shoaib-rawn/My-projects-life/tree/main/mern-inventory-app",
       tech: "Mern,bootstrap"
     },
     {
