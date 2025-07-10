@@ -3,28 +3,28 @@ import React from 'react';
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "Full-stack online shopping application with payment integration",
+      title: "My life learning code",
+      description: "Full-stack ,Frontend ,backend Techs",
       link: "https://github.com/yourusername/ecommerce-platform",
-      tech: "React, Node.js, MongoDB"
+      tech: "Mern,csstailwind,bootstrap ,javascript,php,html,css5"
     },
     {
-      title: "Task Management App",
-      description: "Kanban-style productivity application with drag-and-drop",
+      title: "javascript projects",
+      description: "learning base projects ",
       link: "https://github.com/yourusername/task-manager",
-      tech: "React, Firebase"
+      tech: "Javascript,css tailwind"
     },
     {
-      title: "Weather Dashboard",
-      description: "Real-time weather forecasting with interactive maps",
+      title: "Inventory app ",
+      description: "store products in database",
       link: "https://github.com/yourusername/weather-app",
-      tech: "JavaScript, API Integration"
+      tech: "Mern,bootstrap"
     },
     {
       title: "Portfolio Website",
       description: "My personal developer portfolio with project showcase",
-      link: "https://github.com/yourusername/portfolio",
-      tech: "React, Bootstrap"
+      link: "https://github.com/shoaib-rawn/My-projects-life/tree/main/mern-portfolio-auth",
+      tech: "Mern,bootstrap"
     }
   ];
 
